@@ -33,3 +33,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # share_prompt_demo
+## Implemented Features
+- [x] Share Prompt
+- [x] Copy to Clipboard
+- [x] Create a new prompt
+- [x] Edit a prompt
+- [x] Delete a prompt
+- [ ] Click a Tag to search for prompts with that tag
+- [ ] Input a Tag or a username to search for prompts with that tag or by that user
+- [ ] View Other Users's Profiles
